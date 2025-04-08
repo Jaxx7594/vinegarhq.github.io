@@ -4,16 +4,14 @@
 
 <div class="warning">
 
-  **Vinegar Advisory:**
-
-  We have received conflicting reports of alleged false terminations regarding Roblox Studio via. Wine.
+  **Vinegar Advisory**
+  There have been reports of **false terminations** regarding **Vinegar** and potentially **Sober**.
   
-  **We advise everyone to stop what you are doing IMMEDIATELY and __do not use Vinegar until further notice__**
+  It is strongly recommended that you **do not use Vinegar** until further notice. It is also a good idea to **refrain from using Sober**, at least until more information is known.
   
-  We are getting into the situation and having this resolved as soon as we can.
-
-  If you are already terminated, **__please contact Roblox support as soon as possible__**.
-
+  **If you have already been wrongfully terminated, please contact Roblox support IMMEDIATELY.**
+  
+  *[More Information](/Home/bans.md)*
 </div>
 
 ## Welcome to the home of the VinegarHQ project!
