@@ -4,10 +4,11 @@
 
 <div class="warning">
 
-  **Vinegar Advisory**
+  **Vinegar Advisory:**
+  
   There have been reports of **false terminations** regarding **Vinegar** and potentially **Sober**.
   
-  It is strongly recommended that you **do not use Vinegar** until further notice. It is also a good idea to **refrain from using Sober**, at least until more information is known.
+  It is strongly recommended that you __**do not use Vinegar**__ until further notice. It is also a good idea to __**refrain from using Sober**__, at least until more information is known.
   
   **If you have already been wrongfully terminated, please contact Roblox support IMMEDIATELY.**
   
